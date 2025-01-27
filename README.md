@@ -1,4 +1,4 @@
-# weather_one
+# SnackBar
 
 A new Flutter project.
 
